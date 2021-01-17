@@ -10,7 +10,9 @@ If you think that :
 - Your employees are only resources.
 - Crunch culture is ok.
 
-Please do not contact me. And if you are wondering, yes I have experienced these situations.
+... please do not contact me (and if you are wondering, yes I have experienced these situations)...
+
+**Otherwise it will be with pleasure to [talk](mailto:did.julian@gmail.com) about your company, employees, culture, projects, needs, goals, ...**
 
 ## Indiedevcasts
 :rocket: I'm starting my own indie game studio! What an adventure! If you want to know more about my project you can check out [indiedevcasts.com](https://www.indiedevcasts.com).
