@@ -2,20 +2,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-juliandidier-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliandidier/)](https://www.linkedin.com/in/juliandidier/) [![Twitter Badge](https://img.shields.io/badge/-julian__didier-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/julian__didier)](https://twitter.com/julian__didier) [![Twitter Badge](https://img.shields.io/badge/-indiedevcasts-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/indiedevcasts)](https://twitter.com/indiedevcasts)
 
-Hello my name is Julian. I do not define myself as someone with very specific skills in a very specific area, that's why I like to say I'm just a developer. I love the diversity of knowledge, I'm curious and constantly want to discover new things. I create video games, Unity tools and frameworks, CLIs, softwares, web applications and I contribute to open source projects in a random way. 
-
-If you think that :
-- Your business is a slot machine and not an answer to problems.
-- Your employees (apprentices included) are expensive.
-- Your employees are only resources.
-- Crunch culture is ok.
-
-... please do not contact me (and if you are wondering, yes I have experienced these situations)...
-
-**Otherwise it will be with pleasure to [talk](mailto:did.julian@gmail.com) about your company, employees, culture, projects, needs, goals, ...**
+Hello my name is Julian. I love the diversity of knowledge, I'm curious and constantly want to discover new things. I create video games, Unity tools and frameworks, CLIs, softwares, web applications and I contribute to open source projects in a random way (but in Rust mostly).
 
 ## Indiedevcasts
-:rocket: I'm starting my own indie game studio! What an adventure! If you want to know more about my project you can check out [indiedevcasts.com](https://www.indiedevcasts.com).
+:rocket: I'm starting my own indie game studio! What an adventure! 
 
 I'm currently working on :
 
