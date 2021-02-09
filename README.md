@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-juliandidier-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliandidier/)](https://www.linkedin.com/in/juliandidier/) [![Twitter Badge](https://img.shields.io/badge/-julian__didier-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/julian__didier)](https://twitter.com/julian__didier) [![Twitter Badge](https://img.shields.io/badge/-indiedevcasts-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/indiedevcasts)](https://twitter.com/indiedevcasts)
 
-Hello my name is Julian. I love the diversity of knowledge, I'm curious and constantly want to discover new things. I create video games, Unity tools and frameworks, CLIs, softwares, web applications and I contribute to open source projects in a random way (but in Rust mostly).
+Hello my name is Julian. I love the diversity of knowledge, I'm curious and constantly want to discover new things. I create video games, Unity tools and frameworks, CLIs, softwares, web applications and I contribute to open source projects (Rust mostly).
 
 ## Indiedevcasts
 :rocket: I'm starting my own indie game studio on my free time! What an adventure! 
