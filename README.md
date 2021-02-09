@@ -5,7 +5,7 @@
 Hello my name is Julian. I love the diversity of knowledge, I'm curious and constantly want to discover new things. I create video games, Unity tools and frameworks, CLIs, softwares, web applications and I contribute to open source projects (Rust mostly).
 
 ## Indiedevcasts
-:rocket: I'm starting my own indie game studio on my free time! What an adventure! 
+A personal project where I learn how to make video games.
 
 I'm currently working on :
 
