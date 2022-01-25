@@ -1,16 +1,11 @@
 # theredfi.sh
 
-[![Linkedin Badge](https://img.shields.io/badge/-juliandidier-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliandidier/)](https://www.linkedin.com/in/juliandidier/) [![Twitter Badge](https://img.shields.io/badge/-julian__didier-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/julian__didier)](https://twitter.com/julian__didier) [![Twitter Badge](https://img.shields.io/badge/-indiedevcasts-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/indiedevcasts)](https://twitter.com/indiedevcasts)
+[![Linkedin Badge](https://img.shields.io/badge/-juliandidier-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliandidier/)](https://www.linkedin.com/in/juliandidier/) [![Twitter Badge](https://img.shields.io/badge/-julian__didier-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/julian__didier)](https://twitter.com/julian__didier)
 
-Hello my name is Julian. I love the diversity of knowledge, I'm curious and constantly want to discover new things. I create video games, Unity tools and frameworks, CLIs, softwares, web applications and I contribute to open source projects (Rust mostly).
-
-## Indiedevcasts
-A personal project where I learn how to make video games.
-
-I'm currently working on :
-
-- The website : This is where I will share my tutorials, my podcasts, my video games / devlogs
-- A skateboard/snowboard game engine : so game developers can make their own skateboard/snowboard game in no time
+- 💻 Rust developer
+- ✅ Software Development Engineer in Test
+- 🌱 Solarpunk stuff
+- 📑 http://theredfi.sh
 
 ## Languages and tools
 <p>
