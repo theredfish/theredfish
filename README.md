@@ -7,6 +7,8 @@
 - 🌱 Solarpunk stuff
 - 📑 http://theredfi.sh
 
+I'm building [🦉 Owl Duty - Endpoint monitoring and security](https://owlduty.com)
+
 ## Languages and tools
 <p>
   <img style="padding:4em" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rust.svg" alt="rust logo" title="rust logo" /> &nbsp;
